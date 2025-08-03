@@ -1,9 +1,11 @@
 ---
-title: "联系我们"
-weight: 4
-header_menu: true
+title: "お問い合わせ"
+weight: 8
+navigation_menu_title: "🔖お問い合わせ"
+header_menu_title: "お問い合わせ"
+header_menu: false
 ---
 
 {{<contact_list>}}
 
-Let us get in touch!
+いつもお問い合わせをお待ちしております。

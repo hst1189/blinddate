@@ -1,7 +1,7 @@
 ---
 title: "サービスのご案内"
 weight: 2
-navigation_menu_title: "サービスのご案内 >>>"
+navigation_menu_title: "🔖サービスのご案内"
 header_menu_title: "サービスのご案内"
 header_menu: false
 ---

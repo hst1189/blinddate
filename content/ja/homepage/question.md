@@ -1,7 +1,7 @@
 ---
 title: "よくあるご質問"
 weight: 6
-navigation_menu_title: "よくあるご質問 >>>"
+navigation_menu_title: "🔖よくあるご質問"
 header_menu_title: "よくあるご質問"
 header_menu: false
 ---

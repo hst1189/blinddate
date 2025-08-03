@@ -1,14 +1,32 @@
 ---
-title: "Welcome"
+title: "🔰初来乍到"
 weight: 1
+navigation_menu_title: "🔖初来乍到"
+header_menu_title: "初来乍到"
+header_menu: false
 ---
+　
+###### 💘 享受恋爱的感觉♡感受头等舱般的服务💘
+因为成熟，才会遇到刻骨铭心的爱情——悄然而至，成为生命的一部分。年轻时的爱恋炽热而新鲜，而成熟的爱恋则截然不同。随着年龄的增长，你会遇到更深刻、更触动心弦的爱。你会意识到，爱并非一时的心动，而是随着信任与安全感加深而产生的。与某人相伴，内心便会悄然被填满。当你遇到这个特别的瞬间，或许才能真正理解爱的真谛。
 
-`Hugo-Scroll` theme alternates colors of sections that are placed on single page.
-The landing screen is meant to be visually striking.
+###### 💘 献给寻求特别邂逅的你 💘
+为了迎接人生的下一个阶段，找到一位能携手共创美好未来的伴侣吧。不如就从免费咨询开始，描绘你的未来？让我们一起，迈向头等舱般的婚姻。
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user.
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
+如果你也渴望这样的爱，不妨和我们一起，寻找一种新的爱恋形式？不要独自烦恼，先来一次免费咨询吧。在私密安全的空间里，整理好心情，迈出第一步。
 
-> The belly rules the mind. --- spanish proverb
+###### 🎎 “相亲疲惫”——男性“被拒疲惫”，女性“被追求疲惫” 🎎
+“线上相亲”作为一种无需直接见面也能寻找伴侣的工具，已经成为了经典的相亲方式。
 
-By the way this welcome section won't show in the cover menu.
+![](/images/d25460-44-4a78d19440563e75050d-13.jpg)
+
+
+###### 🎎 线上相亲中，“信息”是“相亲疲惫”的根源。〜男性为信息难以为继，女性为收到信息而痛苦〜
+在线相亲市场中，男性人数更多，女性自然会收到大量异性的信息。对男性来说，如果发送普通的信息，很可能会被淹没，因此需要发送有差异化的信息。“思考信息内容”成为了“相亲疲惫”的原因之一。另一方面，女性每天需要与多位男性互发信息，渐渐就没有精力去享受每条信息的内容，似乎会产生“对发信息这件事本身”感到疲惫的倾向。
+
+![](/images/d25460-44-0e8601d36f5ba7ee48a5-10.jpg)
+
+
+###### 🎎 “相亲疲惫”在约会时也存在！〜3成女性回答“与线上认识的人约会感到痛苦/与想象中不同”〜
+相比男性，女性约会时的准备时间更长，例如化妆、做发型等，付出的精力也更多。数据显示，“女性约会准备时间”非常长，为“31～40分钟”。尽管花了大量时间准备，但实际见面后，很多人会感觉对方与自己想象中的不同，因此“约会不顺利”似乎成为了相亲疲惫的原因。
+
+![](/images/d25460-44-4e866039a6a8822cbd34-9.jpg)

@@ -1,55 +1,41 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
+title: "サービスのご案内"
 weight: 2
+navigation_menu_title: "🔖サービスのご案内"
+header_menu_title: "サービスのご案内"
 header_menu: false
 ---
 
-Feature notice: This section displays options to customize title:
+会員様のご都合に合わせて、自由に出会いの方法をお選びいただけます。
+###### 1. コーディネイト・サービス
 
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+![Let us get started on a clean slate](/images/matching-01.jpg)
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
-
----
-
-### Icons
-
-This theme includes the full set of [Font Awesome v6.6.0 icons](https://fontawesome.com/icons). Use the `{{</* icon */>}}` [shortcode](https://gohugo.io/content-management/shortcodes/) with the respective `name` to use an icon directly in your `.md` files. For example "{{< icon name="envelope" >}}":
-
-```html
-{{</* icon name="envelope" */>}}
+```
+当会の専任カウンセラーは、会員様の理想を深く理解し、ご紹介にふさわしいお相手を推薦します。お客様の希望条件をしっかり満たすお相手を提案することで、ご交際につながる可能性を高めます。
 ```
 
-If you want to use one of Font Awesome's brand icons—the ones that have a trademark warning and the `fa-brands` class—add `brand=true`. For example "{{< icon name="github" brand=true >}}":
+###### 2. 会員検索システム
 
-```html
-{{</* icon name="github" brand=true */>}}
+![Let us get started on a clean slate](/images/matching-02.jpg)
+
 ```
-If you want to use these branded icons in your contact list, use the full class names in your `hugo.toml`:
-
-```toml
-[[params.contacts]]
-  label = "GitHub"
-  value = "github.com/zjedi/hugo-scroll"
-  url = "https://github.com/zjedi/hugo-scroll"
-  icon = "fa-brands fa-github"
+最愛のパートナーを見つけるための会員検索システムを活用し、24時間いつでも理想のお相手を探せます。登録会員のプロフィールや写真をリアルタイムで更新し、スマートフォンやインターネットで簡単に検索できます。理想の相手に出会うためのサポートを提供します。
 ```
 
-### Nutrition Coaching
+###### 3. パーティー・イベント
 
-This is not an easy task.
-You will likely have to pay money for this.
+![Let us get started on a clean slate](/images/matching-03.jpg)
 
-### Chef Consulting
+```
+結婚を真剣に考える大人のための特別なパーティーを開催しています。参加対象を限定し、スタッフが内容や雰囲気に配慮してコーディネートするため、理想の方との出会いの場を提供します。目的に応じた交流を楽しみながら、素敵な出会いをお楽しみください。
+```
 
-I can raise your table culture!
+###### 4. 最先端AI婚活システム
 
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
+![Let us get started on a clean slate](/images/matching-04.jpg)
 
-Want to learn more about my services? See [dedicated page](services) with more details.
-[font-awesome-icons]: https://fontawesome.com/icons
-[hugo-shortcodes]: https://gohugo.io/content-management/shortcodes/
+```
+最先端のAI婚活システムを導入し、理想のお相手を24時間いつでも検索できます。AIが会員のプロフィールを分析し、あなたに最適なお相手を選定。テクノロジーを活用した新しい出会いの形を提案します。
+```
+

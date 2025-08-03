@@ -1,11 +1,11 @@
 ---
-title: "会员注册"
+title: "会員注册"
 weight: 98
-header_menu_title: "会员注册"
-navigation_menu_title: "会员注册"
+navigation_menu_title: "会員注册"
+header_menu_title: "会員注册"
 header_menu: true
 detailed_page_path: /register/
-detailed_page_homepage_content: true
+detailed_page_homepage_content: false
 ---
 The file **legal-brief.md** creates an internal link on the cover page without the leading icon.
 

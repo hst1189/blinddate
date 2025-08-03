@@ -1,7 +1,7 @@
 ---
 title: "オプションのご案内"
 weight: 3
-navigation_menu_title: "オプションのご案内 >>>"
+navigation_menu_title: "🔖オプションのご案内"
 header_menu_title: "オプションのご案内"
 header_menu: false
 ---

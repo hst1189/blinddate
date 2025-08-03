@@ -26,5 +26,26 @@
              Simply place a custom_body.html into
              your local /layouts/partials-directory -->
     {{- partial "custom_body.html" . -}}
+
+
+    {{ range .Site.Params.customJS }}
+    {{ if hugo.IsServer }}
+    {{ $script := resources.Get . }}
+    <script src="{{ $script.RelPermalink }}"></script>
+    {{ else }}
+    {{ $script := resources.Get . | minify | fingerprint }}
+    <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+    {{ end }}
+    {{ end }}
+
+    {{ range $index, $.Site.Params.customRemoteJS }}
+    {{ if hugo.IsServer }}
+    {{ $index | safeHTML }}
+    {{ else }}
+    {{ $index | safeHTML }}
+    {{ end }}
+    {{ end }}
+
+  
   </body>
 </html>

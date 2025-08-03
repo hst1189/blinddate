@@ -1,7 +1,7 @@
 ---
-title: "ご利用料金"
+title: "💰ご利用料金"
 weight: 5
-navigation_menu_title: "ご利用料金 >>>"
+navigation_menu_title: "🔖ご利用料金"
 header_menu_title: "ご利用料金"
 header_menu: true
 ---
@@ -12,7 +12,7 @@ header_menu: true
 
 | | ライトコース| スタンダードコース| プレミアムコース|
 |---|:---:|:---:|:---:|
-|入会金|xx,000 |xx,000 |xx,000 |
-|オプション|xx,000 |xx,000 |xx,000 |
-|成婚|xx,000 |xx,000 |xx,000 |
-|その他|xx,000 |xx,000 |xx,000 |
+|入会金|xx,000円 |xx,000円 |xx,000円 |
+|オプション|xx,000円 |xx,000円 |xx,000円 |
+|成婚|xx,000円 |xx,000円 |xx,000円 |
+|その他|xx,000円 |xx,000円 |xx,000円 |

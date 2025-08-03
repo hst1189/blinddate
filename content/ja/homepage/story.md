@@ -1,7 +1,7 @@
 ---
 title: "ご会員様の声"
 weight: 7
-navigation_menu_title: "ご会員様の声 >>>"
+navigation_menu_title: "🔖ご会員様の声"
 header_menu_title: "ご会員様の声"
 header_menu: false
 ---

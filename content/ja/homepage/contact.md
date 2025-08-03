@@ -1,7 +1,7 @@
 ---
 title: "お問い合わせ"
 weight: 8
-navigation_menu_title: "お問い合わせ >>>"
+navigation_menu_title: "🔖お問い合わせ"
 header_menu_title: "お問い合わせ"
 header_menu: false
 ---
