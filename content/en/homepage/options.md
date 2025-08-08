@@ -1,81 +1,82 @@
 ---
-title: "オプションのご案内"
+title: "Optional Services"
 weight: 3
-navigation_menu_title: "🔖オプションのご案内"
-header_menu_title: "オプションのご案内"
+navigation_menu_title: "🔖Optional Services"
+header_menu_title: "Optional Services"
 header_menu: false
 ---
 
-多彩なオプションサービスをご用意してます。
-###### 1. スタイリング＆フォトサービス
+We have a variety of optional services.
+###### 1. Styling & Photo Service
 ![Let us get started on a clean slate](/images/option-01.jpg)
 
 ```
-専門メイク＆フォトスタジオと提携し、メイクアップとヘアスタイリングを含めた写真撮影サービスをご用意しています。第一印象の決め手となるプロフィール写真の撮影も、どうぞおまかせください。
+We have a partnership with a professional makeup and photo studio to offer a photography service that includes makeup and hair styling. You can leave the shooting of your profile photo, which is key to a good first impression, to us.
 ```
 
 
-###### 2. お見合い当日シンデレラプラン
+###### 2. The Cinderella Plan for the Day of Your Omiai (Matchmaking Meeting)
 ![Let us get started on a clean slate](/images/option-02.jpg)
 
 ```
-第一印象は２秒で決まる！
-お見合いに「また会いたい！」と思われる外見に変身出来ます。
+A first impression is decided in two seconds!
+You can transform your appearance to make people want to see you again at your omiai.
 
-●モテメイク
-お見合い当日にあなたを最も美しく見せるメイクを致します。（必要であれば簡単なヘアスタイリングもOK）
+● Popular Makeup:
+We will apply makeup that makes you look your most beautiful on the day of your omiai. (Simple hair styling is also available if needed.)
 
-●モテ服スタイリング
-お見合いに何を着るか迷っていませんか？あなたが女性らしく、そして、最も魅力的にみえる装いをコーディネート致します。
+● Popular Fashion Styling:
+Are you unsure what to wear to your omiai? We will coordinate an outfit that makes you look feminine and most attractive.
 ```
 
 
-###### 3. メンズスタイリング
+###### 3. Men's Styling
 ![Let us get started on a clean slate](/images/option-03.jpg)
 
 ```
-モテる男は衣装重視、装いで印象が変わる！
+Popular men prioritize their attire; their impression changes with their outfit!
 ```
 
 
-###### 4. ブライダルウォーキングレッスン
+###### 4. Bridal Walking Lesson
 ![Let us get started on a clean slate](/images/option-04.jpg)
 ```
-専門講師によるウォーキングレッスン
-一生の中で、今日が一番キレイな私。人生で最高に輝く舞台のウェディングを最高の紳士淑女で迎えませんか？美しい姿勢・歩き方・所作までレクチャー致します。
+Walking lessons by a professional instructor.
+Today is the most beautiful I've ever been in my life. Wouldn't you like to enter your wedding, the most brilliant stage of your life, as the best gentleman and lady you can be? We will teach you everything from beautiful posture and walking to proper gestures.
 
-☑ 基本の姿勢
-☑ 美しい立姿＆スマートな立姿
-☑ お辞儀の形と二人のタイミング
-☑ 手袋の外し方
-☑ ヴェールアップのされ方＆仕方
-☑ ドレスウォーキング
-☑ エスコート＆エスコートのされ方
+☑ Basic posture
+☑ Beautiful standing pose & smart standing pose
+☑ The form of a bow and the timing for two people
+☑ How to remove gloves
+☑ How to raise and be raised a veil
+☑ Dress walking
+☑ Escorting & being escorted
 ```
 
 
 
-###### 5. ウェディング・コーディネイトサービス
+###### 5. Wedding Coordination Service
 ![Let us get started on a clean slate](/images/option-05.jpg)
 ```
-ご成婚がお決まりになりましたら、ウェディングコーディネーターが、お二人のご希望に沿う結婚式場をご紹介します。
-披露宴のプランニングに関するお悩みなども、どうぞお気軽にご相談ください。
-また、披露宴の総合司会のご依頼も承ります
+Once your engagement is decided, our wedding coordinator will introduce you to wedding venues that meet your and your partner's wishes.
+Please feel free to consult with us about any concerns you have regarding reception planning.
+We also accept requests for a master of ceremonies for the reception.
 ```
 
-###### 6. スピリチュアルカウンセリング
+
+###### 6. Spiritual Counseling
 ![Let us get started on a clean slate](/images/option-06.jpg)
 ```
-癒やされながら美しく健康。そして確かな結果を。
-仕事での悩み、恋愛、男女問題など様々なお悩みに、的確に 時には厳しく親身になってアドバイス。
-スピリチュアルカウンセリングで身も心も癒やしどんどん 元気に、綺麗に、幸せに！ 
+Become beautiful and healthy while being healed. And get certain results.
+We provide accurate, and sometimes strict but compassionate, advice for various concerns, such as troubles at work, in romance, and in male-female relationships.
+Heal your mind and body with spiritual counseling and become more energetic, beautiful, and happy! 
 ```
 
-###### 7. ウェディングドレスのレンタル＆フォトサービス
+
+###### 7. Wedding Dress Rental & Photo Service
 ![Let us get started on a clean slate](/images/option-07.jpg)
 ```
-〜洗練された美しさを纏うことで、女性が美しく成長していくことを願う〜
-ウェディングドレスが「自立した女性の象徴」であって、
-結婚式でウェディングドレスを着るという行為は、女性が持つ美しさと優しさに、一層の輝きを与えられるように。
+We hope that by wearing refined beauty, women will grow more beautiful~
+A wedding dress is a "symbol of an independent woman," and by wearing a wedding dress at a wedding, we hope to give even more radiance to the beauty and kindness that a woman possesses.
 ```
 

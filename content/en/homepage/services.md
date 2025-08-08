@@ -1,41 +1,41 @@
 ---
-title: "サービスのご案内"
+title: "Services"
 weight: 2
-navigation_menu_title: "🔖サービスのご案内"
-header_menu_title: "サービスのご案内"
+navigation_menu_title: "🔖Services"
+header_menu_title: "Services"
 header_menu: false
 ---
 
-会員様のご都合に合わせて、自由に出会いの方法をお選びいただけます。
-###### 1. コーディネイト・サービス
+You are free to choose the matching method that best suits your convenience.
+###### 1. Coordinated Service
 
 ![Let us get started on a clean slate](/images/matching-01.jpg)
 
 ```
-当会の専任カウンセラーは、会員様の理想を深く理解し、ご紹介にふさわしいお相手を推薦します。お客様の希望条件をしっかり満たすお相手を提案することで、ご交際につながる可能性を高めます。
+Our dedicated counselors deeply understand our members' ideals and recommend suitable partners for introductions. By proposing partners who meet your desired criteria, we increase the likelihood of a successful relationship.
 ```
 
-###### 2. 会員検索システム
+###### 2. Member Search System
 
 ![Let us get started on a clean slate](/images/matching-02.jpg)
 
 ```
-最愛のパートナーを見つけるための会員検索システムを活用し、24時間いつでも理想のお相手を探せます。登録会員のプロフィールや写真をリアルタイムで更新し、スマートフォンやインターネットで簡単に検索できます。理想の相手に出会うためのサポートを提供します。
+Utilize our member search system to find your ideal partner 24/7. We provide real-time updates on registered members' profiles and photos, allowing you to easily search via your smartphone or the internet. We offer support to help you meet the person of your dreams.
 ```
 
-###### 3. パーティー・イベント
+###### 3. Parties & Events
 
 ![Let us get started on a clean slate](/images/matching-03.jpg)
 
 ```
-結婚を真剣に考える大人のための特別なパーティーを開催しています。参加対象を限定し、スタッフが内容や雰囲気に配慮してコーディネートするため、理想の方との出会いの場を提供します。目的に応じた交流を楽しみながら、素敵な出会いをお楽しみください。
+We host exclusive parties for adults who are serious about marriage. We limit participation and our staff carefully curates the content and atmosphere, creating a perfect setting to meet your ideal match. Enjoy a sophisticated and purposeful social experience while finding wonderful new connections.
 ```
 
-###### 4. 最先端AI婚活システム
+###### 4. Cutting-Edge AI Matching System
 
 ![Let us get started on a clean slate](/images/matching-04.jpg)
 
 ```
-最先端のAI婚活システムを導入し、理想のお相手を24時間いつでも検索できます。AIが会員のプロフィールを分析し、あなたに最適なお相手を選定。テクノロジーを活用した新しい出会いの形を提案します。
+We've introduced a cutting-edge AI matching system, allowing you to search for your ideal partner 24 hours a day. The AI analyzes member profiles to select the most suitable partners for you. We propose a new form of matchmaking that leverages technology.
 ```
 

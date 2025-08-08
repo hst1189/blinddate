@@ -1,8 +1,8 @@
 ---
-title: "ご会員様の声"
+title: "Member Testimonials"
 weight: 7
-navigation_menu_title: "🔖ご会員様の声"
-header_menu_title: "ご会員様の声"
+navigation_menu_title: "🔖Member Testimonials"
+header_menu_title: "Member Testimonials"
 header_menu: false
 ---
 

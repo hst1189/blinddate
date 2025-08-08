@@ -1,51 +1,51 @@
 ---
-title: "よくあるご質問"
+title: "Q & A"
 weight: 6
-navigation_menu_title: "🔖よくあるご質問"
-header_menu_title: "よくあるご質問"
+navigation_menu_title: "🔖Q & A"
+header_menu_title: "Q & A"
 header_menu: false
 ---
 
 
-{{< details 入会資格はありますか >}}
-20歳以上で結婚・内縁関係のない独身（独身証明書が必要）の方、入会時に必要となる書類が提出できる方※男性は安定した収入がある方が対象です。
-再婚の方もご入会できます。なお、ご入会の際には規定の審査がございます。
+{{< details Do-you-have-any-eligibility-requirements-for-membership >}}
+Anyone 20 years or older who is single and not in a common-law relationship (a Certificate of Singleness is required) and can submit the necessary documents at the time of enrollment. *Men must have a stable income.
+Re-married individuals are also welcome to join. Please note that there will be a standard screening process upon enrollment.
 {{< /details >}}
 
 
-{{< details 料金はどれくらいかかりますか >}}
-ご登録時の費用としてxx,000円(税込)、初期費用xx,000円〜(税込)、月会費xx,000円〜(税込)となっております。お見合い料は一切かかりません。また、ご成婚が決まった時点で成婚料としてxx,000円～(税込)をいただいております。ライトコースの成婚料は0円です。 初期費用と月会費、成婚料はコースごとに異なりますので、詳しくはこちらをご覧ください。
+{{< details How-much-does-it-cost >}}
+The registration fee is ¥xx,000 (tax included), initial costs start from ¥xx,000 (tax included), and monthly fees start from ¥xx,000 (tax included). There is no fee for arranging omiai (matchmaking meetings). A成婚料 (success fee) of ¥xx,000 (tax included) is charged upon a successful marriage arrangement. However, the Light Course has a success fee of ¥0. Initial costs, monthly fees, and success fees vary by course, so please click here for more details.
 {{< /details >}}
 
 
-{{< details どんなサービスが受けられますか >}}
-成婚コンシェルジュが入会から成婚まで、1人ひとりに合わせて婚活をサポートします。婚活プランの設計や紹介文の作成、希望条件に合ったお相手を毎月ご紹介します。客観的なアドバイス、定期的な婚活プランの見直しを行うので、効率的に婚活を進めることができます。コンシェルジュ同士が連携することで、お相手の温度感も把握し、不安やすれ違いも解消できるのでお二人のペースに合わせて婚活が進められます。
+{{< details What-kind-of-services-do-you-offer >}}
+Our marriage concierges will provide personalized support for your matchmaking journey, from enrollment to marriage. They will help you design your matchmaking plan, create your profile, and introduce you to potential partners who meet your criteria every month. With objective advice and regular reviews of your plan, you can proceed efficiently. By having our concierges work together, we can understand the feelings of both parties and resolve any anxieties or misunderstandings, allowing you to move forward at a comfortable pace.
 {{< /details >}}
 
 
-{{< details 会員にはどんな方がいますか >}}
-年齢、職業、性格、価値観もさまざまですが、結婚に真剣な方のみです。
-男性は30代〜40代がボリュームゾーン。女性は30代がもっとも多く、同年代からやや年上とマッチングしやすい構成比率です。
-詳しい会員様のプロフィールはこちらをご覧ください。
+{{< details What-kind-of-people-are-your-members >}}
+Our members have a wide range of ages, occupations, personalities, and values, but they are all serious about getting married.
+The majority of male members are in their 30s and 40s.The largest group of female members are in their 30s, making it easy to match with people of the same age or slightly older.
+For more details on our members' profiles, please click here.
 {{< /details >}}
 
 
-{{< details 活動期間はどれくらいですか >}}
-お客様によってさまざまですが、1年以内にご成婚される方が多い傾向です。結婚に対して前向きな方ばかりなので、早期に決断される方が多いです。
-活動実績についてはこちらをご確認ください。
+{{< details How-long-does-the-process-usually-take >}}
+It varies from person to person, but many members get married within a year. Because everyone is motivated to get married, many people make decisions early.
+Please click here to check our track record.
 {{< /details >}}
 
 
-{{< details 入会時どんなものが必要ですか >}}
-必要な書類は以下の通りです。
-・ご本人確認書類（運転免許証／パスポート／健康保険証など）
-・独身証明書
-・収入証明書
-・学歴証明書
+{{< details What-do-I-need-to-enroll >}}
+The following documents are required:
+* Identification (driver's license / passport / health insurance card, etc.)
+* Certificate of Singleness
+* Proof of Income
+* Proof of Education
 {{< /details >}}
 
 
-{{< details 恋愛に自信がない私でも上手くいきますか >}}
-同じ不安な気持ちを抱えて入会された会員様も多くいらっしゃいます。少しでも不安に思うこと、悩んでいることがあれば、成婚コンシェルジュにご相談ください。最初は自信がなくても、活動していく中で、異性との出会いやコミュニケーションにも慣れ、理想のお相手像が明確になっていくことでしょう。パートナーエージェントの活動を通して、自分に自信を持つ方も多いので、ご心配なさらずにお問い合わせください。
+{{< details Will-I-be-successful >}}
+Many members who join have the same anxieties. If you have any worries or concerns, please feel free to consult with your marriage concierge. Even if you lack confidence at first, as you become more active, you will get used to meeting new people and communicating, and your ideal partner will become clearer. Many people gain confidence in themselves through our services, so please don't worry and feel free to contact us.
 {{< /details >}}
 
