@@ -1,11 +1,9 @@
 <!--<video playsinline="" autoplay="true" muted="" loop=""-->
-<video playsinline="" autoplay="true" loop="" poster="images/video-cover-image.jpg">
+<video playsinline="" autoplay="true" loop="" poster="images/cover-image.jpg">
+    <source src="https://cdn.jsdelivr.net/gh/hst1189/blinddate/assets/cover/sample-960x540-24fps.mp4" type="video/mp4">
+    
     <!--
-    <source src="https://cdn.shopify.com/s/files/1/2974/4858/files/home-hero-mobile.webm?v=1637155649" type="video/webm">
-    <source src="https://cdn.shopify.com/s/files/1/2974/4858/files/home-hero-mobile.mp4?v=1637155649" type="video/mp4">
-    <source src="https://cdn.shopify.com/s/files/1/2974/4858/files/home-hero-mobile.mov?v=1637155649" type="video/mov">
-    -->
-
     {{ $videoResource := resources.Get "cover/sample-960x540-24fps.mp4" }}
     <source src="{{ $videoResource.RelPermalink }}" type="video/mp4">
+    -->
 </video>

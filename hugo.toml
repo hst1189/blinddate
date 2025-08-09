@@ -52,7 +52,7 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "Since 2025 © 東京恋愛物語"
+    copyright = "Since 2025~ © 東京恋愛物語"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -70,7 +70,7 @@ enableEmoji = true
 
     customCSS = ["css/custom.css"]
     customJS = ["js/sakuraPlus.js","js/typed.min.js","js/typed.js"]
-    customRemoteJS= ["<script src='https://app.rybbit.io/api/script.js' data-site-id='1684' defer></script>","<script async src='https://www.googletagmanager.com/gtag/js?id=G-DRGNRYJ7WE'></script>","<script>window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-DRGNRYJ7WE');</script>","<script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9661896697976587' crossorigin='anonymous'></script>"]
+    customRemoteJS= ["<script src='https://app.rybbit.io/api/script.js' data-site-id='1684' defer></script>","<script async src='https://www.googletagmanager.com/gtag/js?id=G-DRGNRYJ7WE'></script>","<script>window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-DRGNRYJ7WE');</script>"]
     
 
     [params.footer]
@@ -115,7 +115,7 @@ enableEmoji = true
     weight = 10
     languageName = "日本語"
     contentDir = "content/ja"
-
+    
   [languages.zh]
     weight =20
     languageName = "中文"
