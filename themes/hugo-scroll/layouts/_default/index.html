@@ -59,6 +59,13 @@
 
     <div class="vertical">
 
+        {{ if .Params.header_use_audio }}
+            <!-- A partial to be overwritten by the user.
+            Simply place a custom_header_video.html into
+            your local /layouts/partials-directory -->
+            {{- partial "custom_header_audio.html" . -}}
+        {{ end }}
+
         {{ if .Params.header_use_video }}
             <!-- A partial to be overwritten by the user.
             Simply place a custom_header_video.html into
@@ -100,6 +107,10 @@
                 <span>{{ with .Params.header_subheadline1 }}{{ . | safeHTML }}{{ end }}</span>
                 <span>{{ with .Params.header_subheadline2 }}{{ . | safeHTML }}{{ end }}</span>       
                 <span>{{ with .Params.header_subheadline3 }}{{ . | safeHTML }}{{ end }}</span>
+                <span>{{ with .Params.header_subheadline4 }}{{ . | safeHTML }}{{ end }}</span>
+                <span>{{ with .Params.header_subheadline5 }}{{ . | safeHTML }}{{ end }}</span>
+                <span>{{ with .Params.header_subheadline6 }}{{ . | safeHTML }}{{ end }}</span>
+                <span>{{ with .Params.header_subheadline7 }}{{ . | safeHTML }}{{ end }}</span>
 　　　　　　　　　　　　  </div>
 　　　　　　　　　　　　  <div class="blog-description"><span id="typed"></span></div>
             {{ if .Site.Params.title_guard }}</div>{{ end }}

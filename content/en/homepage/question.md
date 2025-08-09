@@ -38,10 +38,10 @@ Please click here to check our track record.
 
 {{< details What-do-I-need-to-enroll >}}
 The following documents are required:
-* Identification (driver's license / passport / health insurance card, etc.)
-* Certificate of Singleness
-* Proof of Income
-* Proof of Education
+- Identification (driver's license / passport / health insurance card, etc.)
+- Certificate of Singleness
+- Proof of Income
+- Proof of Education
 {{< /details >}}
 
 

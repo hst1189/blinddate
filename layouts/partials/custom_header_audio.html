@@ -1,0 +1,5 @@
+
+<audio autoplay="true" loop="">
+    {{ $audioResource := resources.Get "cover/bgm.mp3" }}
+    <source src="{{ $audioResource.RelPermalink }}" type="audio/mp3">
+</audio>

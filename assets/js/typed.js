@@ -1,9 +1,10 @@
 var typed = new Typed('#typed', {
     stringsElement: '#typed-strings',
-    typeSpeed: 300,
-    backSpeed: 100,
-    backDelay: 500,
-    startDelay: 1000,
+    typeSpeed: 200,
+//    backSpeed: 100,
+//    backDelay: 500,
+    startDelay: 2000,
+    fadeOut: true,
     loop: true
   });
 

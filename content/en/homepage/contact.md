@@ -8,4 +8,4 @@ header_menu: false
 
 {{<contact_list>}}
 
-いつもお問い合わせをお待ちしております。
+We always welcome your inquiries.
